@@ -37,16 +37,23 @@ Modificar -----> [version actual]
 > ```
 
 
-- java -Xms4G -Xmx12G @libraries\net\neoforged\neoforge\21.1.211\win_args.txt nogui
+> [Powershell]
+> ```bash
+> java -Xms4G -Xmx12G @libraries\net\neoforged\neoforge\21.1.211\win_args.txt nogui
+> ```
 
 Abrí eula.txt y poné eula=true. 
 
 6. en "F:\Ser\server\SERVER_ONLY_MMC5_v24\variables.txt" 
-MODLOADER=NeoForge
-MODLOADER_VERSION=21.1.211
+
+> [!BLOC DE NOTAS]
+> ```bash
+> MODLOADER=NeoForge
+> MODLOADER_VERSION=21.1.211
+> ```
 
 
-7. "F:\Ser\server\SERVER_ONLY_MMC5_v24\run.bat"
+8. "F:\Ser\server\SERVER_ONLY_MMC5_v24\run.bat"
 cambiar la referencia al 211 o la mas nueva
 
 --- 
@@ -60,50 +67,55 @@ https://drive.google.com/drive/folders/1wl_gRjC7YuPAmfvBZ8ETmutOPdvWgdLN
 
 2. "F:\Ser\server\SERVER_ONLY_MMC5_v24\config\tectonic.json"
 cambiar los valores del archivo por estos:
-{
-  "biomes": {
-    "temperature_multiplier": 1.0,
-    "temperature_offset": 0.0,
-    "temperature_scale": 0.10,
-    "vegetation_multiplier": 1.0,
-    "vegetation_offset": 0.0,
-    "vegetation_scale": 0.10
-  },
-  "continents": {
-    "continents_scale": 0.13,
-    "erosion_scale": 0.25,
-    "flat_terrain_skew": 0.1,
-    "jungle_pillars": true,
-    "ocean_offset": -0.8,
-    "ridge_scale": 0.25,
-    "river_lanterns": true,
-    "rolling_hills": true,
-    "underground_rivers": true
-  },
-  "general": {
-    "mod_enabled": true,
-    "snow_start_offset": 128
-  },
-  "global_terrain": {
-    "increased_height": false,
-    "lava_tunnels": true,
-    "ultrasmooth": false,
-    "vertical_scale": 1.125
-  },
-  "islands": {
-    "enabled": true,
-    "noise_multiplier": 1.0,
-    "noise_offset": 0.0,
-    "noise_scale": 0.11
-  },
-  "minor_version": 1,
-  "oceans": {
-    "deep_ocean_depth": -1.10,
-    "monument_offset": -30,
-    "ocean_depth": -0.22,
-    "remove_frozen_ocean_ice": false
-  }
-}
+
+
+> [Block de Notas]
+> ```bash
+> {
+>  "biomes": {
+>    "temperature_multiplier": 1.0,
+>    "temperature_offset": 0.0,
+>    "temperature_scale": 0.10,
+>    "vegetation_multiplier": 1.0,
+>   "vegetation_offset": 0.0,
+>    "vegetation_scale": 0.10
+>  },
+>  "continents": {
+>    "continents_scale": 0.13,
+>    "erosion_scale": 0.25,
+>    "flat_terrain_skew": 0.1,
+>    "jungle_pillars": true,
+>    "ocean_offset": -0.8,
+>    "ridge_scale": 0.25,
+>    "river_lanterns": true,
+>    "rolling_hills": true,
+>    "underground_rivers": true
+>  },
+>  "general": {
+>    "mod_enabled": true,
+>    "snow_start_offset": 128
+>  },
+>  "global_terrain": {
+>    "increased_height": false,
+>    "lava_tunnels": true,
+>    "ultrasmooth": false,
+>    "vertical_scale": 1.125
+>  },
+>  "islands": {
+>    "enabled": true,
+>    "noise_multiplier": 1.0,
+>    "noise_offset": 0.0,
+>   "noise_scale": 0.11
+>  },
+>  "minor_version": 1,
+>  "oceans": {
+>    "deep_ocean_depth": -1.10,
+>    "monument_offset": -30,
+>    "ocean_depth": -0.22,
+>    "remove_frozen_ocean_ice": false
+>  }
+> }
+> ```
 
 3. Nieve:
 
