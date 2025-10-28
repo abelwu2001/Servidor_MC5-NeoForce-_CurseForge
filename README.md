@@ -53,7 +53,20 @@ Abrí eula.txt y poné eula=true.
 > ```
 
 
-8. "F:\Ser\server\SERVER_ONLY_MMC5_v24\run.bat"
+8.en "F:\Ser\server\SERVER_ONLY_MMC5_v24\run.bat"
+
+> [Block de Notas]
+> ```bash
+> @echo off
+> REM Forge requires a configured set of both JVM and program arguments.
+> REM Add custom JVM arguments to the user_jvm_args.txt
+> REM Add custom program arguments {such as nogui} to this file in the next line before the %* or
+> REM  pass them to this script directly
+> java @user_jvm_args.txt @libraries/net/neoforged/neoforge/21.1.211/win_args.txt %*  -----> Modificar la ubicacion de la carpeta con la nueva version de CurseForge
+> pause
+> ```
+
+
 cambiar la referencia al 211 o la mas nueva
 
 --- 
