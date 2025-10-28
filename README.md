@@ -36,7 +36,7 @@ Modificar -----> [version actual]
 > java -jar .\neoforge-installer.jar --installServer
 > ```
 
-
+- Para ejecutar e iniciar el servidor directo [Opcional]
 > [Powershell]
 > ```bash
 > java -Xms4G -Xmx12G @libraries\net\neoforged\neoforge\21.1.211\win_args.txt nogui
