@@ -15,19 +15,29 @@
 5. Abrimos otra vez el powershell en el directorio de la carpeta con el server viejo (ya actualizado) y seguimos los siguientes items en orden:
 
 - eliminación de librerias antiguas rmdir /s /q .\libraries del .\user_jvm_args.txt
-[eliminar la carpeta libreries y el archivo user_jvm_args.txt]
+> [!eliminar la carpeta libreries y el archivo user_jvm_args.txt]]
+> ```bash
+> "rmdir /s /q .\libraries del .\user_jvm_args.txt"
+> ```
+
 
 - descarga de la nueva version de neoforce:
-> [!NOTE]
+> [!Powershell]  
 > ```bash
-> echo "Invoke-WebRequest -Uri https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.[version actual]/neoforge-21.1.[la version actual]-installer.jar -OutFile neoforge-installer.jar"
+> "Invoke-WebRequest -Uri https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.[version actual]/neoforge-21.1.[la version actual]-installer.jar -OutFile neoforge-installer.jar"
 > ```
 
 Modificar -----> [version actual]
 
 - Instalacion
 
-java -jar .\neoforge-installer.jar --installServer
+> [!Powershell]
+> ```bash
+> "java -jar .\neoforge-installer.jar --installServer"
+> ```
+
+
+
 
 
 - java -Xms4G -Xmx12G @libraries\net\neoforged\neoforge\21.1.211\win_args.txt nogui
@@ -37,6 +47,7 @@ Abrí eula.txt y poné eula=true.
 6. en "F:\Ser\server\SERVER_ONLY_MMC5_v24\variables.txt" 
 MODLOADER=NeoForge
 MODLOADER_VERSION=21.1.211
+
 
 7. "F:\Ser\server\SERVER_ONLY_MMC5_v24\run.bat"
 cambiar la referencia al 211 o la mas nueva
