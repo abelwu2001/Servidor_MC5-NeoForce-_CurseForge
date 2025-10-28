@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:oak_planks"
+  },
+  "result": {
+    "id": "supplementaries:hazennstuff/way_sign_frostbite_birch",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

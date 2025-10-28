@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "mynethersdelight:powdery_block"
+  },
+  "result": {
+    "id": "tide:surface_loot_crate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

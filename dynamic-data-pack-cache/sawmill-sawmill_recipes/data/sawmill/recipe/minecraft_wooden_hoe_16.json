@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:cypress_log"
+    },
+    {
+      "item": "natures_spirit:cypress_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_cypress_log"
+    },
+    {
+      "item": "natures_spirit:stripped_cypress_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

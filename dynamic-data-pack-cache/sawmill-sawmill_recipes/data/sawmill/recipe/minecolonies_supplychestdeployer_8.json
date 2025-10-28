@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:saxaul_log"
+    },
+    {
+      "item": "natures_spirit:saxaul_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_saxaul_log"
+    },
+    {
+      "item": "natures_spirit:stripped_saxaul_wood"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:supplychestdeployer",
+    "count": 1
+  },
+  "ingredient_count": 5,
+  "type": "sawmill:woodcutting"
+}

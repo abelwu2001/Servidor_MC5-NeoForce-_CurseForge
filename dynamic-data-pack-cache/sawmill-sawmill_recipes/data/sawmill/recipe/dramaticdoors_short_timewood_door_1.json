@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "twilightforest:time_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_timewood_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

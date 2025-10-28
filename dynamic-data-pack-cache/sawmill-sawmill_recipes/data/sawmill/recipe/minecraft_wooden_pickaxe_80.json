@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:cedar_log"
+    },
+    {
+      "item": "natures_spirit:cedar_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_cedar_log"
+    },
+    {
+      "item": "natures_spirit:stripped_cedar_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:zelkova_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_bwg_zelkova_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

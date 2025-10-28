@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "twilightforest:transformation_log"
+    },
+    {
+      "item": "twilightforest:transformation_wood"
+    },
+    {
+      "item": "twilightforest:stripped_transformation_log"
+    },
+    {
+      "item": "twilightforest:stripped_transformation_wood"
+    }
+  ],
+  "result": {
+    "id": "toms_storage:inventory_proxy",
+    "count": 1
+  },
+  "ingredient_count": 5,
+  "type": "sawmill:woodcutting"
+}

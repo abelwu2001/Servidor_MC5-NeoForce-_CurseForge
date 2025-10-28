@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "natures_spirit:sugi_planks"
+  },
+  "result": {
+    "id": "natures_spirit:sugi_mosaic",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

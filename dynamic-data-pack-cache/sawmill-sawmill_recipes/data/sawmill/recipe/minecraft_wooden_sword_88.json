@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "vanillabackport:pale_oak_log"
+    },
+    {
+      "item": "vanillabackport:pale_oak_wood"
+    },
+    {
+      "item": "vanillabackport:stripped_pale_oak_log"
+    },
+    {
+      "item": "vanillabackport:stripped_pale_oak_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_sword",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

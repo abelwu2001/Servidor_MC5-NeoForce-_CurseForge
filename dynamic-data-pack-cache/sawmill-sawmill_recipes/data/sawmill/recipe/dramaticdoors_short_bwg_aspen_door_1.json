@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:aspen_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_bwg_aspen_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

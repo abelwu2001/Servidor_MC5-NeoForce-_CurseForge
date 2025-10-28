@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "expandeddelight:cinnamon_log"
+    },
+    {
+      "item": "expandeddelight:cinnamon_wood"
+    },
+    {
+      "item": "expandeddelight:stripped_cinnamon_log"
+    },
+    {
+      "item": "expandeddelight:stripped_cinnamon_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chest",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

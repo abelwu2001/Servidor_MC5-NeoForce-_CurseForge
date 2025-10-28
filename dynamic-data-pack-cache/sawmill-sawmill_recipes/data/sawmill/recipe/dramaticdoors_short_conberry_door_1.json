@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "deep_aether:conberry_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_conberry_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

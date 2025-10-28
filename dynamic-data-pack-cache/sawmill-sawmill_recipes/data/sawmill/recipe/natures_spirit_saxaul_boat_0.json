@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:saxaul_log"
+    },
+    {
+      "item": "natures_spirit:saxaul_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_saxaul_log"
+    },
+    {
+      "item": "natures_spirit:stripped_saxaul_wood"
+    }
+  ],
+  "result": {
+    "id": "natures_spirit:saxaul_boat",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

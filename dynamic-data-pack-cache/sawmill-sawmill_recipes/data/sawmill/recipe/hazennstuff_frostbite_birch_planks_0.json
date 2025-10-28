@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "hazennstuff:frostbite_birch_log"
+    },
+    {
+      "item": "hazennstuff:frostbite_birch_wood"
+    },
+    {
+      "item": "hazennstuff:stripped_frostbite_birch_log"
+    },
+    {
+      "item": "hazennstuff:stripped_frostbite_birch_wood"
+    }
+  ],
+  "result": {
+    "id": "hazennstuff:frostbite_birch_planks",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

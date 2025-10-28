@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "witchery:alder_log"
+    },
+    {
+      "item": "witchery:alder_wood"
+    },
+    {
+      "item": "witchery:stripped_alder_log"
+    },
+    {
+      "item": "witchery:stripped_alder_wood"
+    }
+  ],
+  "result": {
+    "id": "witchery:alder_planks",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

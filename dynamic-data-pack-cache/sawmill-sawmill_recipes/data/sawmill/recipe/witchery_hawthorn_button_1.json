@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "witchery:hawthorn_planks"
+  },
+  "result": {
+    "id": "witchery:hawthorn_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

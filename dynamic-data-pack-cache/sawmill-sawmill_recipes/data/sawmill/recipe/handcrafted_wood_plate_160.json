@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "witchery:hawthorn_log"
+    },
+    {
+      "item": "witchery:hawthorn_wood"
+    },
+    {
+      "item": "witchery:stripped_hawthorn_log"
+    },
+    {
+      "item": "witchery:stripped_hawthorn_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_plate",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "gardens_of_the_dead:whistlecane_block"
+  },
+  "result": {
+    "id": "minecraft:bowl",
+    "count": 3
+  },
+  "type": "sawmill:woodcutting"
+}

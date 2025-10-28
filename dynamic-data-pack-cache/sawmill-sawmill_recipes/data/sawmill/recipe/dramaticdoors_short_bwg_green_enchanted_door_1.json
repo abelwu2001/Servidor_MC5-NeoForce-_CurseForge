@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:green_enchanted_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_bwg_green_enchanted_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

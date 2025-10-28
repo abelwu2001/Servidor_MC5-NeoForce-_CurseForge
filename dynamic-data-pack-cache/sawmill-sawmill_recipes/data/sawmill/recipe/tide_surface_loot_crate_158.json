@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "undergarden:smogstem_log"
+    },
+    {
+      "item": "undergarden:smogstem_wood"
+    },
+    {
+      "item": "undergarden:stripped_smogstem_log"
+    },
+    {
+      "item": "undergarden:stripped_smogstem_wood"
+    }
+  ],
+  "result": {
+    "id": "tide:surface_loot_crate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

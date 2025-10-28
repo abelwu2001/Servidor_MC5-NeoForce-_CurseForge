@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:sugi_log"
+    },
+    {
+      "item": "natures_spirit:sugi_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_sugi_log"
+    },
+    {
+      "item": "natures_spirit:stripped_sugi_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_sword",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

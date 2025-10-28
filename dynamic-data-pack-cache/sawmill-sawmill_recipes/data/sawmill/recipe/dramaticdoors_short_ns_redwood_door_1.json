@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "natures_spirit:redwood_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_ns_redwood_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

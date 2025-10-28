@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "witchery:alder_planks"
+  },
+  "result": {
+    "id": "witchery:alder_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:oak_planks"
+  },
+  "result": {
+    "id": "supplementaries:betterarcheology/way_sign_rotten",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

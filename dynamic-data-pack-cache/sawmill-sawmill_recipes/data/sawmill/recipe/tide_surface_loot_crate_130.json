@@ -1,0 +1,12 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "forbidden_arcanus:edelwood_log"
+  },
+  "result": {
+    "id": "tide:surface_loot_crate",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

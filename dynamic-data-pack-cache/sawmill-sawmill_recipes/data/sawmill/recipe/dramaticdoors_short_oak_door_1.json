@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:oak_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_oak_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

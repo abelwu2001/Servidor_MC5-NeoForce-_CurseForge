@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
+  "result": {
+    "id": "tide:surface_loot_crate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "natures_spirit:larch_planks"
+  },
+  "result": {
+    "id": "natures_spirit:larch_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

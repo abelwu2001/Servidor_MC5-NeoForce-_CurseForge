@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "hazennstuff:wisewood_planks"
+  },
+  "result": {
+    "id": "hazennstuff:wisewood_button",
+    "count": 18
+  },
+  "type": "sawmill:woodcutting"
+}

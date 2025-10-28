@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "natures_spirit:maple_planks"
+  },
+  "result": {
+    "id": "natures_spirit:maple_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

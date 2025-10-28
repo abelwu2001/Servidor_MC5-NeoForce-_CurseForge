@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:maple_log"
+    },
+    {
+      "item": "natures_spirit:maple_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_maple_log"
+    },
+    {
+      "item": "natures_spirit:stripped_maple_wood"
+    }
+  ],
+  "result": {
+    "id": "natures_spirit:maple_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

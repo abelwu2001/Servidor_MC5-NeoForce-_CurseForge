@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "betterarcheology:rotten_log"
+  },
+  "result": {
+    "id": "betterarcheology:rotten_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

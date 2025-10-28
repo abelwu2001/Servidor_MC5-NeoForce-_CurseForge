@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:wisteria_log"
+    },
+    {
+      "item": "natures_spirit:wisteria_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_wisteria_log"
+    },
+    {
+      "item": "natures_spirit:stripped_wisteria_wood"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:cutting_board",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:witch_hazel_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_bwg_witch_hazel_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "expandeddelight:cinnamon_planks"
+  },
+  "result": {
+    "id": "expandeddelight:cinnamon_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

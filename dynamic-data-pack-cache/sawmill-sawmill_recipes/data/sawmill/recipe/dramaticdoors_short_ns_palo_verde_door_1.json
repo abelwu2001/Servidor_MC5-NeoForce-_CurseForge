@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "natures_spirit:palo_verde_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_ns_palo_verde_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

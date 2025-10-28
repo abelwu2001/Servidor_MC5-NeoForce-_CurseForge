@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:palo_verde_log"
+    },
+    {
+      "item": "natures_spirit:palo_verde_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_palo_verde_log"
+    },
+    {
+      "item": "natures_spirit:stripped_palo_verde_wood"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:cutting_board",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

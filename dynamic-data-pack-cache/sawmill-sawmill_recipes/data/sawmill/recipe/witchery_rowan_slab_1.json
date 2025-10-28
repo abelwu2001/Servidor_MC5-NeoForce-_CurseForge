@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "witchery:rowan_planks"
+  },
+  "result": {
+    "id": "witchery:rowan_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "undergarden:grongle_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_grongle_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

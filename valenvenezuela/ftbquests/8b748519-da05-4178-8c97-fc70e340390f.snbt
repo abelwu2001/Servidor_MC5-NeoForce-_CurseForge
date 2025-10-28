@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "8b748519da0541788c97fc70e340390f"
+	name: "Titoyug#8b748519"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

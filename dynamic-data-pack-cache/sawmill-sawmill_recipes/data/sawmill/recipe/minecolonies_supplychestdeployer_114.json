@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:palo_verde_log"
+    },
+    {
+      "item": "natures_spirit:palo_verde_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_palo_verde_log"
+    },
+    {
+      "item": "natures_spirit:stripped_palo_verde_wood"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:supplychestdeployer",
+    "count": 1
+  },
+  "ingredient_count": 5,
+  "type": "sawmill:woodcutting"
+}

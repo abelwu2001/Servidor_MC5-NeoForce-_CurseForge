@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:cedar_log"
+    },
+    {
+      "item": "natures_spirit:cedar_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_cedar_log"
+    },
+    {
+      "item": "natures_spirit:stripped_cedar_wood"
+    }
+  ],
+  "result": {
+    "id": "natures_spirit:cedar_stairs",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

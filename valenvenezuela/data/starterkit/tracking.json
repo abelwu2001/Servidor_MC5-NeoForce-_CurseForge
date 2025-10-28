@@ -1,0 +1,11 @@
+{
+  "singleplayer": {
+    "valenvenezuela": true
+  },
+  "multiplayer": {
+    "b3dc16f0-1fef-45cf-891c-1893f7bd3f5c": true,
+    "945d54b6-d652-44f8-9bc0-b2374c5b746e": true,
+    "8b748519-da05-4178-8c97-fc70e340390f": true,
+    "b34e01a4-0202-4fa4-b032-ed65b60250cd": true
+  }
+}

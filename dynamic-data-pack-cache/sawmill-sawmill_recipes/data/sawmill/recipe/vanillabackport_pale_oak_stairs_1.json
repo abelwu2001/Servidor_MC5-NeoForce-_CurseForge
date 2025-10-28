@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "vanillabackport:pale_oak_planks"
+  },
+  "result": {
+    "id": "vanillabackport:pale_oak_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

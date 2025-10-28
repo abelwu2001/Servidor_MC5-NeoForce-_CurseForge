@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "twilightforest:transformation_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_transwood_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

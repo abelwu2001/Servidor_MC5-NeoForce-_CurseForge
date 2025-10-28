@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "natures_spirit:willow_planks"
+  },
+  "result": {
+    "id": "natures_spirit:willow_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

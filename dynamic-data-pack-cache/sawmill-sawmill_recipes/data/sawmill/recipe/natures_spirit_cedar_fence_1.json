@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "natures_spirit:cedar_planks"
+  },
+  "result": {
+    "id": "natures_spirit:cedar_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

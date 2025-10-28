@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "expandeddelight:cinnamon_wood"
+  },
+  "result": {
+    "id": "expandeddelight:cinnamon_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

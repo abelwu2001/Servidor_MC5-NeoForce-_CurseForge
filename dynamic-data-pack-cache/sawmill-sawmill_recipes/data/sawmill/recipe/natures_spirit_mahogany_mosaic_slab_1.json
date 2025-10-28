@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "natures_spirit:mahogany_planks"
+  },
+  "result": {
+    "id": "natures_spirit:mahogany_mosaic_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

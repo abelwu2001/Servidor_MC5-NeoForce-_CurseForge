@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "natures_spirit:olive_planks"
+  },
+  "result": {
+    "id": "natures_spirit:olive_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

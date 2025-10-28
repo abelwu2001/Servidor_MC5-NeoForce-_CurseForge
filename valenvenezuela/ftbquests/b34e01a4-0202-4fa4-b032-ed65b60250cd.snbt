@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b34e01a402024fa4b032ed65b60250cd"
+	name: "DanielPineiro#b34e01a4"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

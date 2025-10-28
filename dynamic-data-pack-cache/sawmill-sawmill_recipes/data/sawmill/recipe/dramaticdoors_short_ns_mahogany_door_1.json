@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "natures_spirit:mahogany_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_ns_mahogany_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

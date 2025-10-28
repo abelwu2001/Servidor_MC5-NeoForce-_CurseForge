@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "witchery:rowan_log"
+  },
+  "result": {
+    "id": "witchery:stripped_rowan_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

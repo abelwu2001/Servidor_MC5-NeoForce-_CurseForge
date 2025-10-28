@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "natures_spirit:ghaf_planks"
+  },
+  "result": {
+    "id": "natures_spirit:ghaf_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "natures_spirit:sugi_wood"
+  },
+  "result": {
+    "id": "natures_spirit:sugi_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

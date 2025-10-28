@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
+  "result": {
+    "id": "ars_nouveau:stripped_blue_archwood_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

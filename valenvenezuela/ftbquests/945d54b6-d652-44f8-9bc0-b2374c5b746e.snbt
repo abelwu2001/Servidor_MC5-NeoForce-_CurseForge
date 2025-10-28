@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "945d54b6d65244f89bc0b2374c5b746e"
+	name: "MaxGameX#945d54b6"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		5DC7FDD0E1B0547F: 1
+	}
+	started: {
+		6712BF106330B0F3: 1761606977989L
+		3CA0E9745340762E: 1761606977989L
+		0000000000000001: 1761606977989L
+		5DC7FDD0E1B0547F: 1761606977989L
+	}
+	completed: {
+		3CA0E9745340762E: 1761606977989L
+		5DC7FDD0E1B0547F: 1761606977989L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:white_mangrove_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_bwg_white_mangrove_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

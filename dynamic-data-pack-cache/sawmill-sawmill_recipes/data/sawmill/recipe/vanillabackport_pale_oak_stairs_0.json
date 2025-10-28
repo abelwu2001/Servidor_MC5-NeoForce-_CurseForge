@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "vanillabackport:pale_oak_log"
+    },
+    {
+      "item": "vanillabackport:pale_oak_wood"
+    },
+    {
+      "item": "vanillabackport:stripped_pale_oak_log"
+    },
+    {
+      "item": "vanillabackport:stripped_pale_oak_wood"
+    }
+  ],
+  "result": {
+    "id": "vanillabackport:pale_oak_stairs",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

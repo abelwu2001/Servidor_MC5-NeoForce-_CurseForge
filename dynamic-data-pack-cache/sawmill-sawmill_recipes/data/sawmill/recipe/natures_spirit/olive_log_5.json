@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "natures_spirit:olive_wood"
+  },
+  "result": {
+    "id": "natures_spirit:stripped_olive_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

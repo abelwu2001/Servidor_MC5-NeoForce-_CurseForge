@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:olive_log"
+    },
+    {
+      "item": "natures_spirit:olive_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_olive_log"
+    },
+    {
+      "item": "natures_spirit:stripped_olive_wood"
+    }
+  ],
+  "result": {
+    "id": "natures_spirit:olive_stairs",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

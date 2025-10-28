@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:rainbow_eucalyptus_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_bwg_rainbow_eucalyptus_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

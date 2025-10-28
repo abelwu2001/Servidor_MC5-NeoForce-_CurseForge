@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:mahogany_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_bwg_mahogany_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

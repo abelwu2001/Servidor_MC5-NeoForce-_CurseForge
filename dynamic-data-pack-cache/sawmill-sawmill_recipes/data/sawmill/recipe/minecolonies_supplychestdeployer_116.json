@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:wisteria_log"
+    },
+    {
+      "item": "natures_spirit:wisteria_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_wisteria_log"
+    },
+    {
+      "item": "natures_spirit:stripped_wisteria_wood"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:supplychestdeployer",
+    "count": 1
+  },
+  "ingredient_count": 5,
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "witchery:rowan_log"
+    },
+    {
+      "item": "witchery:rowan_wood"
+    },
+    {
+      "item": "witchery:stripped_rowan_log"
+    },
+    {
+      "item": "witchery:stripped_rowan_wood"
+    }
+  ],
+  "result": {
+    "id": "minecolonies:supplychestdeployer",
+    "count": 1
+  },
+  "ingredient_count": 5,
+  "type": "sawmill:woodcutting"
+}

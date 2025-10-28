@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "witchery:alder_log"
+  },
+  "result": {
+    "id": "witchery:alder_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

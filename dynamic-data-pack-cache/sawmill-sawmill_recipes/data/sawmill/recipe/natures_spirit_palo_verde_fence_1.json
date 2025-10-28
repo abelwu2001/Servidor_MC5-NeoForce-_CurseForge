@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "natures_spirit:palo_verde_planks"
+  },
+  "result": {
+    "id": "natures_spirit:palo_verde_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

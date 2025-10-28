@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "hazennstuff:wisewood_log"
+  },
+  "result": {
+    "id": "hazennstuff:stripped_wisewood_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

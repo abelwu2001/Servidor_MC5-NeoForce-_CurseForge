@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "natures_spirit:saxaul_log"
+  },
+  "result": {
+    "id": "natures_spirit:saxaul_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

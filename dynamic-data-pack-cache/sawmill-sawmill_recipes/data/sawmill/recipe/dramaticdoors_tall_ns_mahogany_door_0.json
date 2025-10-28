@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:mahogany_log"
+    },
+    {
+      "item": "natures_spirit:mahogany_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_mahogany_log"
+    },
+    {
+      "item": "natures_spirit:stripped_mahogany_wood"
+    }
+  ],
+  "result": {
+    "id": "dramaticdoors:tall_ns_mahogany_door",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

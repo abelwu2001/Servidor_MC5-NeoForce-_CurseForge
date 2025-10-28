@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "natures_spirit:cedar_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_ns_cedar_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

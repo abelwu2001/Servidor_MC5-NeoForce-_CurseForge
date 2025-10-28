@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "witchery:hawthorn_wood"
+  },
+  "result": {
+    "id": "witchery:stripped_hawthorn_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

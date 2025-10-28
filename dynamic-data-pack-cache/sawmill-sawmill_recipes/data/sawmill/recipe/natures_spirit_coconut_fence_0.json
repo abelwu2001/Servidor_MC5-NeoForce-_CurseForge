@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:coconut_log"
+    },
+    {
+      "item": "natures_spirit:coconut_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_coconut_log"
+    },
+    {
+      "item": "natures_spirit:stripped_coconut_wood"
+    }
+  ],
+  "result": {
+    "id": "natures_spirit:coconut_fence",
+    "count": 3
+  },
+  "type": "sawmill:woodcutting"
+}

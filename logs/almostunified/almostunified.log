@@ -1,0 +1,24 @@
+[21:03:01.576] [INFO]: Loading config 'startup.json'.
+[21:03:16.674] [INFO]: Loaded plugins: almostunified:neoforge, almostunified:common
+[21:03:24.736] [WARN]: Reload detected. Reconstructing runtime.
+[21:03:24.742] [INFO]: Loading config 'debug.json'.
+[21:03:24.742] [INFO]: Loading config 'placeholders.json'.
+[21:03:24.748] [INFO]: Loading config 'tags.json'.
+[21:03:24.801] [ERROR]: forbidden_arcanus:stella_arcanum is bound to multiple stone variant tags: TagKey[minecraft:item / c:ores_in_ground/stone] and TagKey[minecraft:item / c:ores_in_ground/deepslate]
+[21:03:24.801] [ERROR]: forbidden_arcanus:stella_arcanum is bound to multiple stone variant tags: TagKey[minecraft:block / c:ores_in_ground/stone] and TagKey[minecraft:block / c:ores_in_ground/deepslate]
+[21:03:24.805] [INFO]: [AutoHiding] Hiding 5/7 items for tag '#c:ores/iron' -> [undergarden:shiverstone_iron_ore, natures_spirit:chert_iron_ore, undergarden:depthrock_iron_ore, deeperdarker:gloomslate_iron_ore, deeperdarker:sculk_stone_iron_ore]
+[21:03:24.807] [INFO]: [AutoHiding] Hiding 5/7 items for tag '#c:ores/diamond' -> [undergarden:shiverstone_diamond_ore, deeperdarker:sculk_stone_diamond_ore, deeperdarker:gloomslate_diamond_ore, undergarden:depthrock_diamond_ore, natures_spirit:chert_diamond_ore]
+[21:03:24.807] [INFO]: [AutoHiding] Hiding 3/5 items for tag '#c:ores/copper' -> [natures_spirit:chert_copper_ore, deeperdarker:sculk_stone_copper_ore, deeperdarker:gloomslate_copper_ore]
+[21:03:24.807] [INFO]: [AutoHiding] Hiding 4/7 items for tag '#c:ores/gold' -> [undergarden:depthrock_gold_ore, natures_spirit:chert_gold_ore, deeperdarker:gloomslate_gold_ore, deeperdarker:sculk_stone_gold_ore]
+[21:03:24.807] [INFO]: [AutoHiding] Hiding 3/5 items for tag '#c:ores/lapis' -> [deeperdarker:gloomslate_lapis_ore, natures_spirit:chert_lapis_ore, deeperdarker:sculk_stone_lapis_ore]
+[21:03:24.807] [INFO]: [AutoHiding] Hiding 3/5 items for tag '#c:ores/emerald' -> [deeperdarker:sculk_stone_emerald_ore, deeperdarker:gloomslate_emerald_ore, natures_spirit:chert_emerald_ore]
+[21:03:25.939] [INFO]: Loading config 'duplicates.json'.
+[21:03:25.942] [INFO]: Recipe count: 17570
+[21:03:25.985] [INFO]: 16811 out of 17570 recipes were loaded for unification.
+[21:03:26.049] [WARN]: Could not detect crafting recipe output for recipe 'tf_dnv:alchemy_table'.
+[21:03:26.050] [WARN]: Could not detect crafting recipe output for recipe 'tf_dnv:butcher_table'.
+[21:03:26.051] [WARN]: Could not detect crafting recipe output for recipe 'tf_dnv:composter'.
+[21:03:26.052] [WARN]: Could not detect crafting recipe output for recipe 'tf_dnv:lumber_table'.
+[21:03:26.052] [WARN]: Could not detect crafting recipe output for recipe 'tf_dnv:mushgloom_torch'.
+[21:03:26.052] [WARN]: Could not detect crafting recipe output for recipe 'tf_dnv:mycologist_table'.
+[21:03:26.205] [INFO]: Recipe count afterwards: 17532 (done in 261.7 ms)

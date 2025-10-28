@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:cika_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_bwg_cika_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

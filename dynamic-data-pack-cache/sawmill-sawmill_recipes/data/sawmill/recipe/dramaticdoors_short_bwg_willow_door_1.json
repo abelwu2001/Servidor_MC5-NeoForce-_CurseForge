@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:willow_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_bwg_willow_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

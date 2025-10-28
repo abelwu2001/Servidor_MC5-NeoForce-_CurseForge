@@ -1,0 +1,17 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:joshua_log"
+    },
+    {
+      "item": "natures_spirit:stripped_joshua_log"
+    }
+  ],
+  "result": {
+    "id": "natures_spirit:stripped_joshua_bundle",
+    "count": 1
+  },
+  "ingredient_count": 4,
+  "type": "sawmill:woodcutting"
+}

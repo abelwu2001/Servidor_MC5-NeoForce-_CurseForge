@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:joshua_log"
+    },
+    {
+      "item": "natures_spirit:stripped_joshua_log"
+    }
+  ],
+  "result": {
+    "id": "dramaticdoors:tall_ns_joshua_door",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

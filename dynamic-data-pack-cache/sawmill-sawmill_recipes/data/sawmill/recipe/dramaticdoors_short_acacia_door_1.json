@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:acacia_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_acacia_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

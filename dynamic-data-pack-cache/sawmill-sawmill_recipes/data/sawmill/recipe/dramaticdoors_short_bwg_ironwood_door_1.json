@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:ironwood_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_bwg_ironwood_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

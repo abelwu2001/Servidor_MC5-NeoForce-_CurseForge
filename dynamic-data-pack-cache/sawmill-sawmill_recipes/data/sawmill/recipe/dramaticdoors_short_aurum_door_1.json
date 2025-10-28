@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "forbidden_arcanus:aurum_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_aurum_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

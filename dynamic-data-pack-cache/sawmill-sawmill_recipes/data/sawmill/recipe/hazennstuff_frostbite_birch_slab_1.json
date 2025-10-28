@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "hazennstuff:frostbite_birch_planks"
+  },
+  "result": {
+    "id": "hazennstuff:frostbite_birch_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

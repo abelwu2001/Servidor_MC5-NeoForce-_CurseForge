@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "twilightforest:sorting_planks"
+  },
+  "result": {
+    "id": "dramaticdoors:short_sortingwood_door",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

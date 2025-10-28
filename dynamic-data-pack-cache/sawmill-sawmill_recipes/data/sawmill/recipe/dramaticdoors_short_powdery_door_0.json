@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "mynethersdelight:powdery_block"
+  },
+  "result": {
+    "id": "dramaticdoors:short_powdery_door",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

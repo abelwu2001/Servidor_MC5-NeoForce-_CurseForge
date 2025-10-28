@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:mahogany_log"
+    },
+    {
+      "item": "natures_spirit:mahogany_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_mahogany_log"
+    },
+    {
+      "item": "natures_spirit:stripped_mahogany_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

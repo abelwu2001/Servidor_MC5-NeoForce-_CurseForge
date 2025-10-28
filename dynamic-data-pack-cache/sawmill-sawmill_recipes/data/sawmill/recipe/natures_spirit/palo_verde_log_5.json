@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "natures_spirit:palo_verde_wood"
+  },
+  "result": {
+    "id": "natures_spirit:stripped_palo_verde_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}
