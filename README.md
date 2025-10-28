@@ -15,29 +15,26 @@
 5. Abrimos otra vez el powershell en el directorio de la carpeta con el server viejo (ya actualizado) y seguimos los siguientes items en orden:
 
 - eliminación de librerias antiguas rmdir /s /q .\libraries del .\user_jvm_args.txt
-> [!eliminar la carpeta libreries y el archivo user_jvm_args.txt]]
+> [eliminar la carpeta libreries y el archivo user_jvm_args.txt]]
 > ```bash
-> "rmdir /s /q .\libraries del .\user_jvm_args.txt"
+> rmdir /s /q .\libraries del .\user_jvm_args.txt
 > ```
 
 
 - descarga de la nueva version de neoforce:
-> [!Powershell]  
+> [Powershell]  
 > ```bash
-> "Invoke-WebRequest -Uri https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.[version actual]/neoforge-21.1.[la version actual]-installer.jar -OutFile neoforge-installer.jar"
+> Invoke-WebRequest -Uri https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.211/neoforge-21.1.211-installer.jar -OutFile neoforge-installer.jar
 > ```
 
 Modificar -----> [version actual]
 
 - Instalacion
 
-> [!Powershell]
+> [Powershell]
 > ```bash
-> "java -jar .\neoforge-installer.jar --installServer"
+> java -jar .\neoforge-installer.jar --installServer
 > ```
-
-
-
 
 
 - java -Xms4G -Xmx12G @libraries\net\neoforged\neoforge\21.1.211\win_args.txt nogui
