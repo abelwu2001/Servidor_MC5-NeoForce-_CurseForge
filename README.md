@@ -62,7 +62,7 @@ Abrí eula.txt y poné eula=true.
 > REM Add custom JVM arguments to the user_jvm_args.txt
 > REM Add custom program arguments {such as nogui} to this file in the next line before the %* or
 > REM  pass them to this script directly
-> java @user_jvm_args.txt @libraries/net/neoforged/neoforge/21.1.211/win_args.txt %*  -----> Modificar la ubicacion de la carpeta con la nueva version de CurseForge
+> java @user_jvm_args.txt @libraries/net/neoforged/neoforge/21.1.211/win_args.txt %*  // -----> Modificar la ubicacion de la carpeta con la nueva version de CurseForge
 > pause
 > ```
 
