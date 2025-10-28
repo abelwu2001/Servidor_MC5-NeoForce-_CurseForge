@@ -1,4 +1,4 @@
-# Actualizaciones del modo MC5-neoforge Medieval
+# Actualizaciones del mod MC5-neoforge Medieval
 
 ## Pasos para actualizar cada version del mod en minecraft:
 
@@ -98,4 +98,10 @@ cambiar los valores del archivo por estos:
 
 creando un nuevo mundo y desactivarlo en 0
 
+---
 
+## Datos extra
+
+- Playit.gg para gente fuera de Argentina (Tunel Directo)
+
+- Radmin VPN para Argentina
