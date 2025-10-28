@@ -46,7 +46,7 @@ Abrí eula.txt y poné eula=true.
 
 6. en "F:\Ser\server\SERVER_ONLY_MMC5_v24\variables.txt" 
 
-> [!BLOC DE NOTAS]
+> [Block de Notas]
 > ```bash
 > MODLOADER=NeoForge
 > MODLOADER_VERSION=21.1.211
