@@ -17,8 +17,11 @@
 - eliminación de librerias antiguas rmdir /s /q .\libraries del .\user_jvm_args.txt
 [eliminar la carpeta libreries y el archivo user_jvm_args.txt]
 
-- descarga de la nueva version de neoforce
-Invoke-WebRequest -Uri https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.[version actual]/neoforge-21.1.[la version actual]-installer.jar -OutFile neoforge-installer.jar
+- descarga de la nueva version de neoforce:
+> [!NOTE]
+> ```bash
+> echo "Invoke-WebRequest -Uri https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.[version actual]/neoforge-21.1.[la version actual]-installer.jar -OutFile neoforge-installer.jar"
+> ```
 
 Modificar -----> [version actual]
 
