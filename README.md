@@ -105,3 +105,5 @@ creando un nuevo mundo y desactivarlo en 0
 - Playit.gg para gente fuera de Argentina (Tunel Directo)
 
 - Radmin VPN para Argentina
+
+- Tutorial para pasar versiones en CurseForge: https://youtu.be/9dLMOiPp_Vk
