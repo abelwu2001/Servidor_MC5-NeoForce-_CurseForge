@@ -53,7 +53,7 @@ Abrí eula.txt y poné eula=true.
 > ```
 
 
-8.en "F:\Ser\server\SERVER_ONLY_MMC5_v24\run.bat"
+7. en "F:\Ser\server\SERVER_ONLY_MMC5_v24\run.bat"
 
 > [Block de Notas]
 > ```bash
