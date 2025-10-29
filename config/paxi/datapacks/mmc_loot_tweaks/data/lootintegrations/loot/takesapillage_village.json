@@ -1,0 +1,10 @@
+{
+  "loot_table": "lootintegrations:chests/village",
+  "max_result_itemcount": 10,
+  "integrated_loot_tables": {
+    "takesapillage:chests/bastille/center": 1,
+    "takesapillage:chests/bastille/church": 1,
+    "takesapillage:chests/bastille/farm": 1,
+    "takesapillage:chests/bastille/gallows": 1
+  }
+}

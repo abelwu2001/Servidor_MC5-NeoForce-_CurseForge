@@ -1,0 +1,8 @@
+["Structure Regeneration"]
+	#List of namespaces to allow regeneration for. Structures from these namespaces can be regenerated.
+	structure_namespaces = ["dungeons_arise", "dungeons_arise_seven_seas", "cataclysm", "bosses_of_mass_destruction", "formidulus", "irons_spellbooks", "illager_invasion", "adventuredungeons", "aether", "betterdungeons", "betterdeserttemples", "betterjungletemples", "betterfortresses", "betteroceanmonuments", "nova_structures"]
+	#List of structure path sections to EXCLUDE regeneration for. If a structure ID's path (the part after the colon) contains any string in this list, it will be excluded, even if its namespace is allowed.
+	#Useful for excluding specific types like 'village' across allowed namespaces.
+	excluded_structure_patterns = ["village", "tavern", "inn", "well"]
+	#List of specific structures (namespace:path) to allow regeneration for, IN ADDITION to the namespaces above. Bypasses the exclude patterns above.
+	additional_structures = ["minecraft:ancient_city", "minecraft:end_city", "eternal_starlight:golem_forge", "eternal_starlight:cursed_garden", "deep_aether:brass_dungeon"]

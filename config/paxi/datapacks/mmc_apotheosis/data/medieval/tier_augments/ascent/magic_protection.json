@@ -1,0 +1,12 @@
+{
+    "type": "apotheosis:attribute",
+    "modifier": {
+        "attribute": "additionalentityattributes:generic.magic_protection",
+        "operation": "add_value",
+        "value": 4
+    },
+    "modifier_id": "apotheosis:ascent/magic_protection",
+    "sort_index": 125,
+    "target": "monsters",
+    "tier": "ascent"
+}

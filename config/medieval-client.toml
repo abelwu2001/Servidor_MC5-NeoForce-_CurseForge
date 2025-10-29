@@ -1,0 +1,5 @@
+["Reactive Music Integration"]
+	#The horizontal radius (in blocks) around the player to check for hostile mobs that can trigger combat music.
+	# Default: 24.0
+	# Range: 1.0 ~ 128.0
+	combat_music_detection_radius = 36.0

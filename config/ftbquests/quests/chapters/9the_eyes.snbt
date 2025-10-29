@@ -1,0 +1,591 @@
+{
+	autofocus_id: "60367DDACC525262"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "9the_eyes"
+	group: "59C90AA1B128306B"
+	icon: {
+		id: "minecraft:end_crystal"
+	}
+	id: "6712BF106330B0F3"
+	images: [
+		{
+			height: 2.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.0d
+			y: 6.5d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.0d
+			y: 8.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.0d
+			y: 9.5d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.5d
+			y: 11.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.0d
+			y: 11.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.5d
+			y: 11.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.0d
+			y: 9.5d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.0d
+			y: 6.5d
+		}
+		{
+			height: 5.0d
+			hover: [
+				"End Remastered reworks how you reach The End, spreading eyes across the world which require you to explore and progress before opening the portal."
+				" "
+				"Find 12 unique eyes (out of 15) to open the End Portal."
+				" "
+				"You can locate a stronghold by throwing any End Remastered eye, but be careful - they can still break."
+			]
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.0d
+			y: 8.0d
+		}
+		{
+			height: 10.0d
+			image: "medieval:textures/dragon.png"
+			rotation: 0.0d
+			width: 23.0d
+			x: 17.0d
+			y: 7.5d
+		}
+	]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4EA47294389AA8F1"
+			rewards: [{
+				id: "54DD24929D84ED8B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "27ED3435A7ADA5AD"
+				item: { count: 1, id: "endrem:black_eye" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			id: "3CA0E9745340762E"
+			rewards: [{
+				id: "13AF84A28C1A8A4D"
+				item: {
+					count: 1
+					id: "discerning_the_eldritch:eldritch_upgrade_orb"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5DC7FDD0E1B0547F"
+				item: { count: 1, id: "endrem:corrupted_eye" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.5d
+		}
+		{
+			id: "4726C6C722EFE7C0"
+			rewards: [{
+				id: "39FC70C166C1F8EF"
+				item: {
+					components: {
+						"irons_spellbooks:spell_container": {
+							data: [{
+								id: "cataclysm_spellbooks:desert_winds"
+								index: 0
+								level: 1
+								locked: 1b
+							}]
+							maxSpells: 1
+							mustEquip: 0b
+							spellWheel: 0b
+						}
+					}
+					count: 1
+					id: "irons_spellbooks:scroll"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1A102CA28F156CAF"
+				item: { count: 1, id: "endrem:old_eye" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 11.0d
+		}
+		{
+			id: "4218B5890CF9EB46"
+			rewards: [{
+				id: "2CE5CD0B6436C3C1"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "21F22D48662E2D44"
+				item: { count: 1, id: "endrem:rogue_eye" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 9.5d
+		}
+		{
+			id: "2E32BEE8B248BA12"
+			rewards: [{
+				id: "6E934CBC05F81F5B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "52C6877399C708B7"
+				item: { count: 1, id: "endrem:cursed_eye" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 8.0d
+		}
+		{
+			id: "1D12AE712F1942F6"
+			rewards: [{
+				id: "45E13C4C9E162EFE"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				random_bonus: 5
+				type: "item"
+			}]
+			tasks: [{
+				id: "0B0EB63C7F1EA23E"
+				item: { count: 1, id: "endrem:evil_eye" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.5d
+		}
+		{
+			id: "4C3EAB2FC21DBE56"
+			rewards: [{
+				id: "2E8730ACC3767D31"
+				item: {
+					count: 1
+					id: "minecraft:fire_coral"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "49A1F7775A9CB466"
+				item: { count: 1, id: "endrem:guardian_eye" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			id: "7D156C4A9331B0EB"
+			rewards: [{
+				id: "33947D86D9FDF047"
+				item: {
+					count: 1
+					id: "witchery:witches_hat"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "203B2EDBB4C36385"
+				item: { count: 1, id: "endrem:witch_eye" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.5d
+		}
+		{
+			id: "0204DFBFBB267108"
+			rewards: [{
+				id: "7706199F2CEB2E6C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "22D3513CACAF0C0F"
+				item: { count: 1, id: "endrem:exotic_eye" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 13.0d
+		}
+		{
+			id: "60367DDACC525262"
+			rewards: [{
+				id: "11FA046BA2F10F01"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "0FB7070B1F9C37D8"
+				item: { count: 1, id: "minecraft:ender_eye" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 8.0d
+		}
+		{
+			id: "425EC4B0377744A4"
+			rewards: [{
+				id: "2ED6F726B0874B0C"
+				item: {
+					components: {
+						"irons_spellbooks:spell_container": {
+							data: [{
+								id: "irons_spellbooks:magic_arrow"
+								index: 0
+								level: 5
+								locked: 1b
+							}]
+							maxSpells: 1
+							mustEquip: 0b
+							spellWheel: 0b
+						}
+					}
+					count: 1
+					id: "irons_spellbooks:scroll"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: {
+					id: "minecraft:end_crystal"
+				}
+				id: "2470F6952E7BBC5E"
+				type: "dimension"
+			}]
+			x: 11.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["425EC4B0377744A4"]
+			icon: {
+				id: "minecraft:dragon_head"
+			}
+			id: "2CE58DD1AE214711"
+			progression_mode: "flexible"
+			rewards: [
+				{
+					id: "296E81269E2CF6BB"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+				{
+					id: "0C5D505AB2558097"
+					item: {
+						count: 1
+						id: "irons_spellbooks:dragonskin"
+					}
+					random_bonus: 1
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: {
+					id: "minecraft:dragon_head"
+				}
+				id: "6848B89E38A80BAB"
+				type: "kill"
+				value: 1L
+			}]
+			x: 14.5d
+			y: 6.5d
+		}
+		{
+			id: "1B3DA66139175C4C"
+			rewards: [{
+				id: "2BB3F2134FC0E958"
+				item: {
+					components: {
+						"minecraft:potion_contents": {
+							potion: "minecraft:fire_resistance"
+						}
+					}
+					count: 1
+					id: "minecraft:potion"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "698A8D9D61C060BF"
+				item: { count: 1, id: "endrem:nether_eye" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 11.0d
+		}
+		{
+			id: "0211DBAD1BA4858E"
+			rewards: [{
+				id: "6D798FFC36B42BD0"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"veinmining:vein_mining": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3DC44570B5AEDFCE"
+				item: { count: 1, id: "endrem:lost_eye" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 11.0d
+		}
+		{
+			id: "4A2176409CC12F00"
+			rewards: [{
+				count: 5
+				id: "724F50B82F3CE04F"
+				item: {
+					count: 1
+					id: "minecraft:lapis_lazuli"
+				}
+				random_bonus: 5
+				type: "item"
+			}]
+			tasks: [{
+				id: "00280449F07F4980"
+				item: { count: 1, id: "endrem:cryptic_eye" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			id: "59D6FF0AB3FB26FC"
+			rewards: [{
+				id: "662D584927EC352A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7FBEB9D10E614DA7"
+				item: { count: 1, id: "endrem:undead_eye" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			id: "46280FF1EE648A3E"
+			rewards: [{
+				id: "000A05A460AC51CD"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "62D46C8B52F7BF78"
+				item: { count: 1, id: "endrem:wither_eye" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			id: "1E1A74E752E36ADF"
+			rewards: [{
+				id: "4D7038898727B3EB"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "32A7299BCCEC8FDD"
+				item: { count: 1, id: "endrem:magical_eye" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2CE58DD1AE214711"]
+			id: "097A5600C57A6FBF"
+			rewards: [
+				{
+					id: "718C6F5545B06B5C"
+					item: {
+						count: 1
+						id: "bosses_of_mass_destruction:mob_ward"
+					}
+					type: "item"
+				}
+				{
+					id: "2ADAD61B01550BE2"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				entity: "bosses_of_mass_destruction:obsidilith"
+				icon: {
+					id: "bosses_of_mass_destruction:obsidian_heart"
+				}
+				id: "5E25F6C019E809E3"
+				type: "kill"
+				value: 1L
+			}]
+			x: 17.5d
+			y: 7.375d
+		}
+		{
+			dependencies: ["097A5600C57A6FBF"]
+			id: "28F8487C8845BA59"
+			rewards: [{
+				id: "6E71C1DBEEA643F2"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "cataclysm:ender_golem"
+				icon: {
+					id: "cataclysm:enderite_block"
+				}
+				id: "0F99AA15FE3953A1"
+				type: "kill"
+				value: 1L
+			}]
+			x: 20.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["28F8487C8845BA59"]
+			hide_until_deps_complete: false
+			id: "39E6B081D8383844"
+			rewards: [
+				{
+					id: "796076E660723CD6"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+				{
+					id: "78677DCAE158F75E"
+					item: {
+						count: 1
+						id: "cataclysm:music_disc_ender_guardian"
+					}
+					type: "item"
+				}
+				{
+					id: "2E3FC1B32406606C"
+					item: {
+						count: 1
+						id: "aether:obsidian_gloves"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				icon: {
+					id: "cataclysm:void_core"
+				}
+				id: "58D8CE362325FCDA"
+				type: "kill"
+				value: 1L
+			}]
+			x: 22.5d
+			y: 8.0d
+		}
+	]
+}

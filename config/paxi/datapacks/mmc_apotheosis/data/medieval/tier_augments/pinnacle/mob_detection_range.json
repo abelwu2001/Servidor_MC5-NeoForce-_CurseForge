@@ -1,0 +1,12 @@
+{
+    "type": "apotheosis:attribute",
+    "modifier": {
+        "attribute": "additionalentityattributes:generic.mob_detection_range",
+        "operation": "add_value",
+        "value": 32
+    },
+    "modifier_id": "apotheosis:pinnacle/mob_detection_range",
+    "sort_index": 500,
+    "target": "players",
+    "tier": "pinnacle"
+}

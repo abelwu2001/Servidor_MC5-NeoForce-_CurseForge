@@ -1,0 +1,12 @@
+{
+    "type": "apotheosis:attribute",
+    "modifier": {
+        "attribute": "dynamic_difficulty:projectile_damage_bonus",
+        "operation": "add_value",
+        "value": 140.0
+    },
+    "modifier_id": "apotheosis:pinnacle/projectile_damage",
+    "sort_index": 175,
+    "target": "monsters",
+    "tier": "pinnacle"
+}

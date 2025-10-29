@@ -1,0 +1,32 @@
+{
+  "logbegone": {
+    "phrases": [
+      "########## GL ERROR ##########",
+      "Radium Class Analysis Error: Class org.betterx",
+      "65539: Invalid key -1",
+      "@ Pre render",
+      "@ Render",
+      "@ Post render",
+      "Disconnecting VANILLA connection attempt",
+      "Attempted to load class net/minecraft/client",
+      "UUID of added entity already exists: EntityDragonPart",
+      "Empty or non-existent pool",
+      "invalid entry \"credits\"",
+      "Ignored non-lowercase namespace",
+      "does not belong to a known attribute. This entry will be ignored",
+      "Detected setBlock in a far chunk",
+      "Ignoring unknown attribute",
+      "Couldn't find template pool reference",
+      "Template pool fallback chain found",
+      "unable to apply palette",
+      "Failed to load palette",
+      "Error while trying to set target:",
+      "Trying to access unbound value: ancientreforging:ancient",
+      "Items without a valid loot category are not permitted."
+    ],
+    "regex": [
+      ".*(Unknown block '.*' in '.*' element '.*' at index).*",
+      ".*(GL_INVALID_(OPERATION|VALUE|ENUM)).*"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "loot_table": "lootintegrations:chests/medium",
+  "max_result_itemcount": 10,
+  "integrated_loot_tables": {
+    "medieval_buildings:chests/town_inside": 1,
+    "medievalend:end_pyramid": 1
+  }
+}

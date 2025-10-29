@@ -1,0 +1,33 @@
+{
+    "replace": true,
+    "values": [
+        {"id":"minecraft:ender_dragon","required":false},
+        {"id":"minecraft:wither","required":false},
+        {"id":"minecraft:villager","required":false},
+        {"id":"minecraft:wandering_trader","required":false},
+        {"id":"goblintraders:goblin_trader","required":false},
+        {"id":"goblintraders:vein_goblin_trader","required":false},
+        {"id":"aether:valkyrie_queen","required":false},
+        {"id":"bosses_of_mass_destruction:gauntlet","required":false},
+        {"id":"bosses_of_mass_destruction:lich","required":false},
+        {"id":"bosses_of_mass_destruction:void_blossom","required":false},
+        {"id":"bosses_of_mass_destruction:obsidilith","required":false},
+        {"id":"cataclysm:ignis","required":false},
+        {"id":"cataclysm:ender_golem","required":false},
+        {"id":"cataclysm:the_harbinger","required":false},
+        {"id":"cataclysm:the_leviathan","required":false},
+        {"id":"iceandfire:ice_dragon","required":false},
+        {"id":"iceandfire:fire_dragon","required":false},
+        {"id":"iceandfire:lightning_dragon","required":false},
+        {"id":"iceandfire:hydra","required":false},
+        {"id":"irons_spellbooks:dead_king","required":false},
+        {"id":"twilightforest:lich","required":false},
+        {"id":"twilightforest:knight_phantom","required":false},
+        {"id":"twilightforest:hydra","required":false},
+        {"id":"twilightforest:alpha_yeti","required":false},
+        {"id":"twilightforest:naga","required":false},
+        {"id":"twilightforest:alpha_yeti","required":false},
+        {"id":"twilightforest:snow_queen","required":false},
+        {"id":"twilightforest:ur_ghast","required":false}
+    ]
+  }

@@ -1,0 +1,161 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "oddities"
+	group: "799D8360B26E9792"
+	icon: {
+		id: "naturescompass:naturescompass"
+	}
+	id: "24BF7EAB0608B877"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4387DC125EB44573"
+			rewards: [{
+				count: 16
+				id: "4D62A4CFA78ACA91"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6A8CF1B278364EF6"
+				item: { count: 1, id: "naturescompass:naturescompass" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			id: "1E65308E968AF323"
+			rewards: [{
+				count: 3
+				id: "0222F0DF696FA1F5"
+				item: {
+					count: 1
+					id: "minecraft:melon_seeds"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "15B384EA2101FE2C"
+				item: { count: 1, id: "sereneseasons:calendar" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			id: "1BFDB866125B81CF"
+			rewards: [{
+				count: 8
+				id: "656DFE3A7CC48601"
+				item: {
+					count: 1
+					id: "minecraft:oak_log"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "259DD25DD4E080D8"
+				item: { count: 1, id: "sawmill:sawmill" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "57BCA1F791036BEB"
+			rewards: [{
+				count: 16
+				id: "7CADF56190D3DB11"
+				item: {
+					count: 1
+					id: "minecraft:spectral_arrow"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4529CB373E37AB67"
+				item: { count: 1, id: "magnumtorch:diamond_magnum_torch" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			id: "3AEFF086B6978759"
+			rewards: [{
+				id: "3B40F0D431696699"
+				item: {
+					count: 1
+					id: "minecraft:white_banner"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0E4345FBB5BECF45"
+				item: { count: 1, id: "dummmmmmy:target_dummy" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			id: "4E0D44424E41AD74"
+			rewards: [{
+				id: "1199F5F868319EED"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "6A9EED890EC4713B"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(waystones:waystones)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "35FBD3B1EDC80582"
+			rewards: [{
+				count: 8
+				id: "053E7F448B21CE19"
+				item: {
+					count: 1
+					id: "minecraft:oak_log"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "73BE38C0047EFA31"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(dramaticdoors:tall_doors)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "353956A504681541"
+			rewards: [{
+				count: 3
+				id: "2E00CC98CF8ED80B"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5BC30D2F68FC8D4D"
+				item: { count: 1, id: "tradingpost:trading_post" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+	]
+}

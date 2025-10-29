@@ -1,0 +1,23 @@
+{
+    "loot_table": "medieval:random_book",
+    "max_result_itemcount": 1,
+    "integrated_loot_tables": {
+        "nova_structures:chests/witch_villa/library": 1,
+        "ctov:chests/village/village_library": 1,
+        "nova_structures:chests/witch_villa/bedroom": 1,
+        "nova_structures:chests/illager_hideout_library": 1,
+        "nova_structures:chests/piglin_camp/chest": 1,
+        "tlc:chests/biblio": 3,
+        "formationsoverworld:stone_tower/bedroom": 1,
+        "formationsoverworld:small_house/fireplace": 1,
+        "medieval_buildings:chests/medium_shack_house": 1,
+        "mvs:houses_rare": 1,
+        "mns:chests/uncommon": 1,
+        "minecraft:chests/village/village_desert_house": 1,
+        "minecraft:chests/village/village_jungle_house": 1,
+        "minecraft:chests/village/village_plains_house": 1,
+        "minecraft:chests/village/village_savanna_house": 1,
+        "minecraft:chests/village/village_snowy_house": 1,
+        "minecraft:chests/village/village_swamp_house": 1
+    }
+}

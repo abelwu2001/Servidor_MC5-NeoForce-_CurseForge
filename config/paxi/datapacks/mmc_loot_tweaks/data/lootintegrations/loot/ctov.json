@@ -1,0 +1,18 @@
+{
+  "loot_table": "lootintegrations:chests/village",
+  "max_result_itemcount": 10,
+  "integrated_loot_tables": {
+    "ctov:chests/village/village_badlands_house": 2,
+    "ctov:chests/village/village_bakery": 2,
+    "ctov:chests/village/village_beach_house": 2,
+    "ctov:chests/village/village_dark_forest_house": 2,
+    "ctov:chests/village/village_farm": 2,
+    "ctov:chests/village/village_forager": 2,
+    "ctov:chests/village/village_jungle_house": 2,
+    "ctov:chests/village/village_library": 2,
+    "ctov:chests/village/village_mountain_house": 2,
+    "ctov:chests/village/village_mushroom_house": 2,
+    "ctov:chests/village/village_smith": 2,
+    "ctov:chests/village/village_swamp_house": 2
+  }
+}

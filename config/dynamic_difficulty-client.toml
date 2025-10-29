@@ -1,0 +1,42 @@
+["Level Plate Settings"]
+	#Determines when entity levels are rendered: ALWAYS, NEVER, or LOOKING_AT (only when the player is looking directly at/near the entity).
+	#Allowed Values: ALWAYS, NEVER, LOOKING_AT
+	"Render Behavior" = "LOOKING_AT"
+	"Maximum render distance" = 64.0
+	#Show Apotheosis world tier in entity level display (if Apotheosis is installed)
+	#This will scan entity attributes for Apotheosis tier modifiers
+	#Tiers: Haven, Frontier, Ascent, Summit, Pinnacle
+	"Show Apotheosis World Tier" = true
+
+["Entity Settings"]
+	"Entities with hidden levels" = []
+
+["Structure Title Display"]
+	#Display structure names and level bonuses when entering structures
+	"Show structure titles" = true
+	#Time in ticks for structure title to fade in
+	# Default: 10
+	# Range: 0 ~ 100
+	"Fade in time" = 10
+	#Time in ticks to display structure title
+	# Default: 60
+	# Range: 0 ~ 600
+	"Display time" = 60
+	#Time in ticks for structure title to fade out
+	# Default: 20
+	# Range: 0 ~ 100
+	"Fade out time" = 20
+	#Text color in hex format (e.g., "FFFFFF" for white)
+	"Text color" = "FFFFFF"
+	#Render text shadow for structure titles
+	"Render shadow" = true
+	#Text size multiplier for structure titles
+	# Default: 2.0
+	# Range: 0.5 ~ 5.0
+	"Text size" = 2.0
+	#X offset for structure title position
+	"X offset" = 0
+	#Y offset for structure title position
+	"Y offset" = 20
+	#Center structure title text on screen
+	"Center text" = true

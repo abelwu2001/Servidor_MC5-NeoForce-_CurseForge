@@ -1,0 +1,10 @@
+{
+  "loot_table": "lootintegrations:chests/village",
+  "max_result_itemcount": 10,
+  "integrated_loot_tables": {
+    "medieval_buildings:chests/medium_shack_hay_bale": 1,
+    "medieval_buildings:chests/medium_shack_house": 1,
+    "medieval_buildings:chests/town_outside_chests": 1,
+    "medievalend:end_house_1chests": 1
+  }
+}

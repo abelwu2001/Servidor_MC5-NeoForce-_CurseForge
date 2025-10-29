@@ -1,0 +1,12 @@
+["Level Plate Settings"]
+	#Determines when entity levels are rendered: ALWAYS, NEVER, or LOOKING_AT (only when the player is looking directly at/near the entity).
+	#Allowed Values: ALWAYS, NEVER, LOOKING_AT
+	"Render Behavior" = "LOOKING_AT"
+	"Maximum render distance" = 64.0
+	#Show Apotheosis world tier in entity level display (if Apotheosis is installed)
+	#This will scan entity attributes for Apotheosis tier modifiers
+	#Tiers: Haven, Frontier, Ascent, Summit, Pinnacle
+	"Show Apotheosis World Tier" = true
+
+["Entity Settings"]
+	"Entities with hidden levels" = []

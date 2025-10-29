@@ -1,0 +1,4 @@
+["Custom HUD"]
+	#Enable custom rendering for Health, Stamina (Hunger), and Mana bars.
+	#Set to false to use vanilla/other mods' rendering.
+	enable_custom_resource_bars = true

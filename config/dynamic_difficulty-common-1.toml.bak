@@ -1,0 +1,49 @@
+["Base Leveling"]
+	#Base level for all entities
+	"Starting level" = 1
+	#Maximum level cap (0 for unlimited)
+	"Maximum level" = 0
+	#Random bonus levels added to entities (0-value)
+	"Random level bonus" = 0
+	#Additional experience multiplier per level
+	"Experience bonus per level" = 0.1
+
+["Environmental Scaling"]
+	#How many levels to add per block from world spawn
+	"Levels per block from spawn" = 0.01
+	#How many levels to add per block below sea level
+	"Levels per depth" = 0.0
+	#How many levels to add per in-game day passed
+	"Levels per day" = 0.0
+	#Exponential level scaling with distance from spawn
+	"Distance power scaling" = 0.0
+	#Exponential level scaling with depth
+	"Depth power scaling" = 0.0
+
+["Player-Based Scaling"]
+	#Radius to search for players when calculating level bonuses
+	"Player search radius" = 128.0
+	#How many levels to add per player skill point
+	#Higher values mean faster level scaling with player progression
+	# Default: 0.2
+	# Range: 0.0 ~ 10.0
+	"Levels per skill point" = 0.2
+	#Whether to factor in player levels when calculating mob levels
+	"Enable player-based leveling" = false
+
+["Entity Filtering"]
+	#Whether passive mobs (animals) should be prevented from leveling
+	"Disable passive mob leveling" = true
+	#Entities that cannot level up
+	#Example: ["minecraft:zombie", "minecraft:skeleton"]
+	"Blacklisted entities" = []
+	#If not empty, only these entities can level up
+	"Whitelisted entities" = []
+
+["Attribute Bonuses"]
+	#List of [attribute_id, bonus_per_level, operation_type] triplets
+	#attribute_id: The resource location of the attribute (e.g., "minecraft:generic.attack_damage")
+	#bonus_per_level: The amount to add per entity level
+	#operation_type: 0 = ADD_VALUE (flat addition), 1 = ADD_MULTIPLIED_BASE (percentage), 2 = ADD_MULTIPLIED_TOTAL (percentage of final value)
+	#If operation_type is omitted, ADD_VALUE is used (except for max_health which defaults to ADD_MULTIPLIED_BASE)
+	"Level bonus per attribute" = [["minecraft:generic.attack_damage", 0.2, 0], ["minecraft:generic.armor", 0.0, 0], ["minecraft:generic.max_health", 0.05, 1], ["dynamic_difficulty:projectile_damage_multiplier", 0.02, 0], ["dynamic_difficulty:explosion_damage_multiplier", 0.02, 0]]

@@ -1,0 +1,10 @@
+["Custom HUD"]
+	#Enable custom rendering for Health, Stamina (Hunger), and Mana bars.
+	#Set to false to use vanilla/other mods' rendering.
+	enable_custom_resource_bars = true
+
+["Reactive Music Integration"]
+	#The horizontal radius (in blocks) around the player to check for hostile mobs that can trigger combat music.
+	# Default: 36.0
+	# Range: 1.0 ~ 128.0
+	combat_music_detection_radius = 36.0

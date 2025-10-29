@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Aedesius",
+      "uniqueId": "bfbf8923-815c-4305-9f52-a1ed488dbf05"
+    },
+    "time": 1756463496130,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\renpi\\curseforge\\minecraft\\Instances\\MMC5Neo\\config\\spark\\profile-2025-08-29_05.31.36.sparkprofile"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+    "type": "apotheosis:attribute",
+    "modifier": {
+        "attribute": "dynamic_difficulty:projectile_damage_bonus",
+        "operation": "add_value",
+        "value": 20.0
+    },
+    "modifier_id": "apotheosis:frontier/projectile_damage",
+    "sort_index": 175,
+    "target": "monsters",
+    "tier": "frontier"
+}

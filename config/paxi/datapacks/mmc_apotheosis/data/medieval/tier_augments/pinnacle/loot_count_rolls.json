@@ -1,0 +1,12 @@
+{
+    "type": "apotheosis:attribute",
+    "modifier": {
+        "attribute": "additionalentityattributes:player.bonus_loot_count_rolls",
+        "operation": "add_value",
+        "value": 1
+    },
+    "modifier_id": "apotheosis:pinnacle/player_loot_count",
+    "sort_index": 500,
+    "target": "players",
+    "tier": "pinnacle"
+}

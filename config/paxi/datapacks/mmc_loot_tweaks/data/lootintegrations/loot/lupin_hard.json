@@ -1,0 +1,9 @@
+{
+  "loot_table": "lootintegrations:chests/hard",
+  "max_result_itemcount": 12,
+  "integrated_loot_tables": {
+    "medievalend:end_castle": 1,
+    "medievalend:end_castle_barrer": 1,
+    "medieval_buildings:chests/ship_chests_under_the_stairs": 2
+  }
+}

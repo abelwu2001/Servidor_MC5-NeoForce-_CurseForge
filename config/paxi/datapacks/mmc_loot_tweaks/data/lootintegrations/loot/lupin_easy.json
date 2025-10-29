@@ -1,0 +1,10 @@
+{
+  "loot_table": "lootintegrations:chests/easy",
+  "max_result_itemcount": 8,
+  "integrated_loot_tables": {
+    "medieval_buildings:chests/tiny_shack": 1,
+    "medieval_buildings:chests/tower": 2,
+    "medievalend:end_house_2chests": 1,
+    "medievalend:end_pyramid_chests": 2
+  }
+}

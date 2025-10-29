@@ -1,0 +1,12 @@
+{
+    "type": "apotheosis:attribute",
+    "modifier": {
+        "attribute": "additionalentityattributes:generic.magic_protection",
+        "operation": "add_value",
+        "value": 20
+    },
+    "modifier_id": "apotheosis:pinnacle/magic_protection",
+    "sort_index": 155,
+    "target": "monsters",
+    "tier": "pinnacle"
+}

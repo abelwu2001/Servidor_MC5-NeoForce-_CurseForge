@@ -1,0 +1,12 @@
+{
+    "type": "apotheosis:attribute",
+    "modifier": {
+        "attribute": "additionalentityattributes:generic.magic_protection",
+        "operation": "add_value",
+        "value": 10
+    },
+    "modifier_id": "apotheosis:summit/magic_protection",
+    "sort_index": 125,
+    "target": "monsters",
+    "tier": "summit"
+}

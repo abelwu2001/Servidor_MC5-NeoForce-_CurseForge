@@ -1,0 +1,12 @@
+{
+    "type": "apotheosis:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.movement_speed",
+        "operation": "add_multiplied_base",
+        "value": 0.25
+    },
+    "modifier_id": "apotheosis:summit/movement_speed",
+    "sort_index": 500,
+    "target": "monsters",
+    "tier": "summit"
+}
