@@ -2,15 +2,15 @@
   "inventoryConfig": {
     "dropPlayerHead": false,
     "itemLoss": {
-      "enabled": true,
+      "enabled": false,
       "affectStacks": false,
       "usePercentRange": true,
-      "lossRangeFrom": 99,
+      "lossRangeFrom": 0,
       "lossRangeTo": 100,
       "weightedSelection": true,
       "lossDropRule": "DESTROY",
-      "percentChanceOfLoss": 80,
-      "canLoseSoulbound": true,
+      "percentChanceOfLoss": 50,
+      "canLoseSoulbound": false,
       "includeModdedInventories": true
     },
     "loseSoulboundLevelOnDeath": false,
@@ -24,7 +24,7 @@
     "keepPercentage": 0
   },
   "graveConfig": {
-    "enabled": false,
+    "enabled": true,
     "storeItems": true,
     "storeXp": true,
     "informGraveLocation": true,
@@ -143,13 +143,13 @@
   },
   "compatConfig": {
     "enableAccessoriesCompat": true,
-    "defaultAccessoriesDropRule": "DESTROY",
+    "defaultAccessoriesDropRule": "PUT_IN_GRAVE",
     "enableTravelersBackpackCompat": true,
-    "defaultTravelersBackpackDropRule": "DESTROY",
+    "defaultTravelersBackpackDropRule": "PUT_IN_GRAVE",
     "enableCuriosCompat": true,
-    "defaultCuriosDropRule": "DESTROY",
+    "defaultCuriosDropRule": "PUT_IN_GRAVE",
     "enableCosmeticArmorCompat": true,
-    "defaultCosmeticArmorDropRule": "DESTROY"
+    "defaultCosmeticArmorDropRule": "PUT_IN_GRAVE"
   },
   "commandConfig": {
     "mainCommand": "yigd",

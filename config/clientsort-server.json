@@ -29,6 +29,14 @@
         "sortEnabled": false,
         "stackFillEnabled": false,
         "transferEnabled": false
+      },
+      "dev.shadowsoffire.fastbench.util.CraftingInventoryExt": {
+        "className": "dev.shadowsoffire.fastbench.util.CraftingInventoryExt",
+        "sortEnabled": false,
+        "stackFillEnabled": true,
+        "transferEnabled": true,
+        "lastAutoEditTime": "2025-10-30T18:00:54.9563268-03:00",
+        "lastAutoEditReason": "Collect operation failed to safe-insert from slot 8 with item '40 biomeswevegone:zelkova_planks' to slot 4 with item '8 biomeswevegone:zelkova_planks': Expected '48 biomeswevegone:zelkova_planks' in destination after set, got '16 biomeswevegone:zelkova_planks'!"
       }
     }
   }
