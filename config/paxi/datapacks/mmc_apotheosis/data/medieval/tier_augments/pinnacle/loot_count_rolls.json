@@ -3,7 +3,7 @@
     "modifier": {
         "attribute": "additionalentityattributes:player.bonus_loot_count_rolls",
         "operation": "add_value",
-        "value": 1
+        "value": 0
     },
     "modifier_id": "apotheosis:pinnacle/player_loot_count",
     "sort_index": 500,

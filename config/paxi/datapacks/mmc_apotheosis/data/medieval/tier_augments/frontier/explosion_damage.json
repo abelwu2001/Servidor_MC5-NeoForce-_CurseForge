@@ -1,9 +1,9 @@
 {
     "type": "apotheosis:attribute",
     "modifier": {
-        "attribute": "dynamic_difficulty:explosion_damage_bonus",
+        "attribute": "dynamic_difficulty:explosion_damage_multiplier",
         "operation": "add_value",
-        "value": 20.0
+        "value": 2.0
     },
     "modifier_id": "apotheosis:frontier/explosion_damage",
     "sort_index": 176,

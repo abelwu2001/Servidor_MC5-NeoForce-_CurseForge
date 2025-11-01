@@ -3,7 +3,7 @@
     "modifier": {
         "attribute": "additionalentityattributes:generic.magic_protection",
         "operation": "add_value",
-        "value": 2
+        "value": 4
     },
     "modifier_id": "apotheosis:frontier/magic_protection",
     "sort_index": 125,
