@@ -3,7 +3,7 @@
     "modifier": {
         "attribute": "minecraft:generic.max_health",
         "operation": "add_multiplied_base",
-        "value": 4.0
+        "value": 14.0
     },
     "modifier_id": "apotheosis:ascent/health",
     "sort_index": 75,

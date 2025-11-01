@@ -1,12 +1,12 @@
-{
+{	
     "type": "apotheosis:attribute",
     "modifier": {
         "attribute": "dynamic_difficulty:explosion_damage_multiplier",
         "operation": "add_value",
-        "value": 4.0
+        "value": 8.0
     },
-    "modifier_id": "apotheosis:ascent/explosion_damage",
+    "modifier_id": "apotheosis:frontier/explosion_damage",
     "sort_index": 176,
     "target": "monsters",
-    "tier": "ascent"
+    "tier": "summit"
 }

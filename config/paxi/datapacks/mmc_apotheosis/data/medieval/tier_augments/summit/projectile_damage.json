@@ -1,9 +1,9 @@
 {
     "type": "apotheosis:attribute",
     "modifier": {
-        "attribute": "dynamic_difficulty:projectile_damage_bonus",
+        "attribute": "dynamic_difficulty:projectile_damage_multiplier",
         "operation": "add_value",
-        "value": 80.0
+        "value": 14.7
     },
     "modifier_id": "apotheosis:summit/projectile_damage",
     "sort_index": 175,
